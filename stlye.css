@@ -1,0 +1,226 @@
+.navbar-brand{
+   font-weight: 500;  
+     font-family: cursive; 
+}
+.navbar-collapse{
+    font-size:smaller;
+}
+.button
+{
+    color: black;
+    background-color: white;
+    border-radius: 0px;
+    border: 1px soild rgb(27, 27, 27);
+}
+.main{
+    display: flex;
+    background-image: radial-gradient(#9bd7de4f, #a9e3e517);
+}
+.bannercontand{
+    margin: 60px 50px 50px 120px;
+    width: 50%;
+}
+.bannercontand h4{
+    font-family: monospace;
+        font-weight: 900;
+        font-size: 30px;
+    }
+    .bannercontand p{
+        font-size: 11px;
+        font-weight: 400;
+    }
+    .button1{
+color: white;
+background-color: rgb(89,186,65);
+    font-size: 11px;
+    margin: 0 0 20px 0;
+    padding: 5px 13px;
+    border: 1px solid white;
+    }
+    .bannercontand span{
+        font-size: 8px;
+    margin: 10px 40px 0px 0px;
+}
+    
+    .bannerimg img{
+        width: 50%;
+    
+    margin: 20px 20px 40px 160px;
+    }
+    .heading{
+        margin: 30px 0px 30px 0px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    }
+    .main1{
+        display: flex;
+    }
+    .banner1 ,.banner2,.banner3{
+        width: 33%;
+        height: 350px;
+       
+        margin: 5px 5px 5px 5px;
+    padding: 25px 10px 0 20px;
+        
+    }
+    .banner1 img ,.banner2 img,.banner3 img{
+        width: 70%;
+        margin: 50px 20px 0px 50px;
+    }
+    .banner1{
+        background-color: rgb(224,234,215);
+    }
+    .banner2{
+        
+        background-color:rgb(252,226,209);}
+    .banner3{
+        background-color: rgb(175,243,238);
+    }
+    .heading2{
+        margin: 30px 0px 30px 0px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    }
+    .main3,.main4{
+        display: flex;
+        height: 250px;
+    }
+    .bannercontand4{
+        padding: 0 30px 0 300px;
+    }
+    .banner4 img{
+        padding: 0 40px 0 30px;
+    }
+    .banner5 img{
+        padding: 0 30px 0 300px;
+    }
+    .banner4contand4{
+        padding: 0 40px 0 30px;
+    }
+    .banner4 img,.banner5 img{
+        width: 70%;
+    }
+    .bannercontand4 p,.bannercontand5 p{
+        font-size: 10px;
+    }
+    .bannercontand4 h5, .bannercontand5 h5{
+        font-weight: 700;
+    }
+    .main4{
+        margin: 30px 0 0 0;
+    }
+.main3{
+    margin: 0 0 30px 0;
+}
+.bannercontand5 button{
+    color: white;
+    background-color: rgb(89,186,65);
+    border: beige;
+        font-size: 11px;
+        margin: 0 0 20px 0;
+        padding: 5px 13px;
+        }
+        .heading3 h4{
+            margin: 30px 0px 30px 0px;
+        text-align: center;
+        font-size: 20px;
+        font-weight: 700;
+        padding: 40px 0 40px 0;
+        }
+        
+        .banner6{
+            background-color: rgb(232,243,235);
+            height: 450px;
+}
+    .main5 {
+        display: flex;
+    
+    }
+    .section1{
+        border: 1px solid white;
+    background-color: white;
+    margin: 0 10px 20px 30px;
+    width: 50%;
+    padding: 0 0 0 0 ;
+    display: flex;
+    height: 140px;
+}
+.section1img img{
+    margin: 30px 15px 0 15px;
+}
+    .section1text{
+        margin: 30px 15px 0 15px;
+    }
+    .section1text p{
+        font-size: 10px;
+    }
+    .section1text h5
+    {
+    font-weight: 500;
+    font-size: 18px;
+}
+.main6 
+{
+    display: flex;
+}
+.main7
+{
+     display: flex;
+}
+.banner7{
+    width: 50%;
+    height: 100px;
+}
+.banner7 h5{
+    margin: 30px 0px 30px 0px;
+    
+        font-size: 20px;
+        font-weight: 700;
+        padding: 40px 0 40px 0;
+}
+.banner7text p{
+    font-size: 10px;
+    padding: 60px 0 0 0;
+}
+.banner7text button{
+    color: white;
+    background-color: rgb(89,186,65);
+    border: beige;
+        font-size: 11px;
+        margin: 0 0 20px 0;
+        padding: 5px 13px;
+}
+.footer{
+    height: 250px;
+    background-color: #f4f2d782;
+    display: flex;
+}
+.footer2{
+    padding: 40px 0 0 0;
+    width: 25%;
+
+}
+.footer2 h6 ,.footer2 h5{
+    font-size: 20px;
+}
+.footer2 ul li ,.footer2 p ,.footer2 input{
+    font-size: 10px;
+}
+.footer2 button{color: white;
+    background-color:rgb(89,186,65);
+    border: beige;
+        font-size: 11px;
+        margin: 0 0 20px 0;
+        padding: 5px 13px;
+
+}
+.quote{
+    height: 250px;
+    text-align: center;
+    background-color: #8c989817;
+}
+.footer2 img{
+    width: 8%;
+}
